@@ -1,0 +1,12 @@
+Average image pixel 107.812305
+Low image pixel 0
+High image pixel 244
+Pattern: 37.796724
+Max value 33.806391 @ col,row = 1713,253
+Center position = 1655.000000,242.500000
+X: 33.798366 33.806391 33.729544 = -0.405444, 1712.594556
+Y: 32.472267 33.806391 32.723236 = 0.051911, 253.051911
+Adjusted center position = 1654.594556,242.551911
+Adjusted center position = 0.030135 mrad,-0.066761 mrad
+Match 0.894
+Output file is results.bmp
